@@ -23,29 +23,33 @@
 ### Flight Itinerary Planner
 Python, A* Search Algorithm  
 Finds cost-effective and time-efficient flight routes  
-[Repository Link](https://github.com/nouranehababdallah1/Flight-Itinerary-Planner)
+
 
 ### University Dormitory Management System
 SQL, ERD, Database Design, Windows Forms (C#)  
 Manages student housing, library books, and meal services  
-[Repository Link](https://github.com/nouranehababdallah1/University-Dormitory-Management-System)
+
 
 ---
 
 ## 🔹 Education & Training
+## 🔹 Education & Training
 
-- **Bachelor’s in Computers and AI**, Beni-Suef University — Expected 2027  
-- **DEPI – Data Science Trainee**, IBM Professional Certificate  
-- **NTI – Data Analytics Intern**  
-- **Python for Data Science – Creativa Innovation Hub**  
-- **InnovEgypt Entrepreneurship Program – ITIDA & TIEC**
+## 🔹 Education & Training
+
+- **NTI – Summer Training: Data Analytics Intern** (Aug 2025 – Sep 2025)  
+- **DEPI – Data Science Trainee**, IBM Professional Certificate (Jul 2025 – Feb 2026)  
+- **Python for Data Science – Creativa Innovation Hub** (Mar 2025)  
+- **InnovEgypt Entrepreneurship Program – ITIDA & TIEC** (Jul 2025)  
+- **Bachelor’s in Computers and AI**, Beni-Suef University — Expected 2027
+
 
 ---
 
 ## 🔹 Currently Learning
 
 - Power BI (Data Visualization & Dashboards)  
-- Machine Learning basics  
+- Machine Learning
 - MLOps  
 - Advanced Data Tools
 
@@ -54,7 +58,7 @@ Manages student housing, library books, and meal services
 ## 🔹 Contact Me
 
 📧 nouranehab58000@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/nouran-ehab/)
+🔗 [LinkedIn](https://www.linkedin.com/in/nouran-ehab-3082562a4/)
 
 ---
 
