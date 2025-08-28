@@ -18,13 +18,13 @@ I'm Nouran Ehab Abdallah
 
 
 ---
-## 🔹 Soft Skills
+## 🔹 Soft 
 
 ![Teamwork](https://img.shields.io/badge/Teamwork-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-F44336?style=for-the-badge)
-![Time Management](https://img.shields.io/badge/Time_Management-2196F3?style=for-the-badge)
-![Communication](https://img.shields.io/badge/Communication-FF9800?style=for-the-badge)
-![Creative Thinking](https://img.shields.io/badge/Creative_Thinking-9C27B0?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-F44336?style=for-the-badge&logo=appveyor&logoColor=white)
+![Time Management](https://img.shields.io/badge/Time_Management-2196F3?style=for-the-badge&logo=appveyor&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-FF9800?style=for-the-badge&logo=appveyor&logoColor=white)
+![Creative Thinking](https://img.shields.io/badge/Creative_Thinking-9C27B0?style=for-the-badge&logo=appveyor&logoColor=white)
 
 
 ---
