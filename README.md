@@ -4,15 +4,19 @@
 
 ---
 
+## 🔹 Skills
+
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-FF6F00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-F25022?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![ERD & Schema](https://img.shields.io/badge/Database-8A2BE2?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+---
 
 ## 🔹 Projects
 
@@ -40,7 +44,8 @@ Manages student housing, library books, and meal services
 
 ## 🔹 Currently Learning
 
-- Machine Learning  
+- Power BI (Data Visualization & Dashboards)  
+- Machine Learning basics  
 - MLOps  
 - Advanced Data Tools
 
