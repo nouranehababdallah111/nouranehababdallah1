@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nouran Ehab Abdallah
+I'm Nouran Ehab Abdallah
 
 **Aspiring Data Scientist | Data Science Trainee @ DEPI | Data Analytics Intern @ NTI | Computer Science Student @ Beni-Suef University**
 
@@ -33,9 +33,6 @@ Manages student housing, library books, and meal services
 ---
 
 ## 🔹 Education & Training
-## 🔹 Education & Training
-
-## 🔹 Education & Training
 
 - **NTI – Summer Training: Data Analytics Intern** (Aug 2025 – Sep 2025)  
 - **DEPI – Data Science Trainee**, IBM Professional Certificate (Jul 2025 – Feb 2026)  
@@ -62,6 +59,3 @@ Manages student housing, library books, and meal services
 
 ---
 
-## 🔹 GitHub Stats
-
-![Nouran's GitHub stats](https://github-readme-stats.vercel.app/api?username=nouranehababdallah1&show_icons=true&theme=radical)
