@@ -26,7 +26,6 @@ I'm Nouran Ehab Abdallah
 ![Communication](https://img.shields.io/badge/Communication-FF9800?style=for-the-badge&logo=appveyor&logoColor=white)
 ![Creative Thinking](https://img.shields.io/badge/Creative_Thinking-9C27B0?style=for-the-badge&logo=appveyor&logoColor=white)
 
-
 ---
 
 ## 🔹 Education & Training
