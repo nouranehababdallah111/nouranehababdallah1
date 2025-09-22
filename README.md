@@ -1,74 +1,74 @@
-I'm Nouran Ehab Abdallah
+# 💻 Nouran Ehab Abdallah  
+*Aspiring Data Scientist | Turning raw data into real impact 📊✨*  
 
-**Aspiring Data Scientist | Data Science Trainee @ DEPI | Data Analytics Intern @ NTI | Computer Science Student @ Beni-Suef University**
-
----
-
-## 🔹 Technical Skills
-
-**Database & SQL**  
-![ERD & Schema](https://img.shields.io/badge/Database-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-26418F?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Python & Data Handling**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Data Visualization**  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**Other Tools**  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-
----
-## 🔹 Soft Skills
-
-![Teamwork & Collaboration](https://img.shields.io/badge/Teamwork-4CAF50?style=for-the-badge&logo=slack&logoColor=white)
-![Time Management](https://img.shields.io/badge/Time_Management-2196F3?style=for-the-badge&logo=brain&logoColor=white)
-![Communication](https://img.shields.io/badge/Communication-FF9800?style=for-the-badge&logo=slack&logoColor=white)
-![Creative Thinking](https://img.shields.io/badge/Creative_Thinking-9C27B0?style=for-the-badge&logo=brain&logoColor=white)
-![Problem-Solving](https://img.shields.io/badge/Problem_Solving-F44336?style=for-the-badge&logo=brain&logoColor=white)
-
-
+📍 Giza, Egypt | ✉️ [Email](mailto:nouranehab58000@gmail.com) | 🔗 [LinkedIn](YOUR-LINKEDIN-LINK) | 🌐 [Portfolio](YOUR-PORTFOLIO-LINK)  
 
 ---
 
-## 🔹 Education & Training
+## 👩‍💻 About Me  
+I’m a **Data Scientist in training** with hands-on experience in **Python, SQL, and Data Visualization**.  
+Passionate about transforming raw data into actionable insights and creating interactive dashboards that drive decision-making.  
 
-- **NTI – Summer Training: Data Analytics Intern** (Aug 2025 – Sep 2025)  
-- **DEPI – Data Science Trainee**, IBM Professional Certificate (Jul 2025 – Feb 2026)  
-- **Python for Data Science – Creativa Innovation Hub** (Mar 2025)  
-- **InnovEgypt Entrepreneurship Program – ITIDA & TIEC** (Jul 2025)  
-- **Bachelor’s in Computers and AI**, Beni-Suef University — Expected 2027
-
----
-
-## 🔹 Projects
-
-### Flight Itinerary Planner
-**Python, A* Search Algorithm**  
-Finds cost-effective and time-efficient flight routes  
-
-### University Dormitory Management System
-**SQL, ERD, Database Design, Windows Forms (C#)**  
-Manages student housing, library books, and meal services  
+🎓 Currently pursuing my **B.Sc. in Computers & AI** at Beni-Suef University (Expected 2027).  
+📚 Building real-world projects through the **IBM Data Scientist Professional Certificate** (DEPI).  
 
 ---
 
-## 🔹 Currently Learning
+## 🛠️ Skills & Tools  
+**Languages & Libraries:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-76b900?style=flat&logoColor=white)  
 
-- Power BI (Data Visualization & Dashboards)  
-- Machine Learning  
-- MLOps  
-- Advanced Data Tools
+**Data Visualization & BI Tools:**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
+
+**Soft Skills:** Problem-Solving | Critical Thinking | Adaptability | Research | Time Management  
 
 ---
 
-## 🔹 Contact Me
+## 🚀 Projects  
 
-📧 nouranehab58000@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/nouran-ehab-3082562a4/)
+🔹 **Interactive Sales Dashboard (NTI)**  
+📊 Tools: Excel, Power Query, Data Modeling  
+➡️ Built dashboards to track sales, top products, and monthly trends.  
+
+🔹 **Fitbit Marketing Dashboard (NTI)**  
+📊 Tools: Power BI, Power Query, DAX  
+➡️ Visualized campaign performance: Impressions, Clicks, Conversion Rate, and ROI.  
+
+🔹 **Global Sales Dashboard (NTI)**  
+📊 Tools: Power BI, DAX  
+➡️ Analyzed worldwide orders with KPIs for revenue, freight, and product categories.  
+
+🔹 **University Dormitory Management System**  
+🖥️ Tools: SQL, ERD, Database Design, C#  
+➡️ Designed a management system for student housing and library books.  
+
+🔹 **Flight Itinerary Planner**  
+✈️ Tools: Python, A* Search Algorithm  
+➡️ Built a route-planning system for cost- and time-efficient flights.  
+
+---
+
+## 📜 Certifications  
+- **IBM Data Scientist Professional Certificate** (Ongoing) – DEPI / IBM  
+- **Data Analytics & Freelancing Training** – NTI (2025)  
+- **Python for Data Science** – Creativa Innovation Hub (2025)  
+- **InnovEgypt Entrepreneurship Program** – ITIDA & TIEC (2024)  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true)  
+
+---
+
+✨ *“Data is the new oil, but insight is the new power.”* ✨  
