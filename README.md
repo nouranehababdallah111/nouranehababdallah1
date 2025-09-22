@@ -26,7 +26,6 @@ Passionate about transforming raw data into actionable insights and creating int
 **Data Visualization & BI Tools:**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
-
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)   
 
 **Soft Skills:** Problem-Solving | Critical Thinking | Adaptability | Research | Time Management  
