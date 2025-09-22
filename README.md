@@ -1,7 +1,7 @@
 # 💻 Nouran Ehab Abdallah  
 *Aspiring Data Scientist | Turning raw data into real impact 📊✨*  
 
-📍 Giza, Egypt | ✉️ [Email](mailto:nouranehab58000@gmail.com) | 🔗 [LinkedIn](YOUR-LINKEDIN-LINK) | 🌐 [Portfolio](YOUR-PORTFOLIO-LINK)  
+📍 Giza, Egypt | ✉️ [Email](mailto:nouranehab58000@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/nouranehababdallah111/) | 🌐 [Portfolio](https://gamma.app/docs/Nouran-Ehab-Abdallah-i5a3oca55debtxk?mode=doc)  
 
 ---
 
@@ -62,13 +62,5 @@ Passionate about transforming raw data into actionable insights and creating int
 - **Python for Data Science** – Creativa Innovation Hub (2025)  
 - **InnovEgypt Entrepreneurship Program** – ITIDA & TIEC (2024)  
 
----
-
-## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true)  
-
----
 
 ✨ *“Data is the new oil, but insight is the new power.”* ✨  
