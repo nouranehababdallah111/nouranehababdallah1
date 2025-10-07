@@ -53,25 +53,25 @@ Problem-Solving | Critical Thinking | Adaptability | Research | Time Management
 
 ## 🚀 Projects  
 
-**[Interactive Sales Dashboard – NTI](#)**  
-Tools: Excel (PivotTables, Power Query), Data Modeling  
-Transformed raw sales data into interactive dashboards to track KPIs such as total sales, top products, and sales by region.
+### 🚴‍♂️ Bike Shop Sales Analysis
+**Tools:** Excel (PivotTables, Power Query), Data Modeling  
+Analyzed bike shop sales data and built interactive dashboards to track KPIs such as total sales and top products.  
+🔗 [Repository Link](https://github.com/nouranehababdallah111/Bike-Shop-Sales-Analysis)
 
-**[Fitbit Marketing Dashboard – NTI](#)**  
-Tools: Power BI, DAX  
-Visualized campaign performance with metrics like impressions, clicks, conversions, conversion rate, and ROI.
+---
 
-**[Global Sales Dashboard – NTI](#)**  
-Tools: Power BI, DAX  
-Analyzed global orders and built dashboards to monitor revenue, taxes, freight, and product performance by category.
+### 📊 Power BI Sales Analytics
+**Tools:** Power BI, DAX  
+Created an end-to-end BI solution for global sales data (2011–2014) with dynamic dashboards.  
+🔗 [Repository Link](https://github.com/nouranehababdallah111/PowerBI-Sales-Analytics)
 
-**[University Dormitory Management System – Beni-Suef University](#)**  
-Tools: SQL, ERD, C# (Windows Forms)  
-Managed student housing, library services, and meal plans.
+---
 
-**[Flight Itinerary Planner – Beni-Suef University](#)**  
-Tools: Python, A* Search Algorithm  
-Developed an intelligent route planner to find cost- and time-efficient flight paths.
+### 💼 Sales Data Analysis Project
+**Tools:** Excel, Data Modeling  
+Performed comprehensive sales data analysis and built actionable dashboards for business insights.  
+🔗 [Repository Link](https://github.com/nouranehababdallah111/Sales-Data-Analysis-Project)
+
 
 ---
 
