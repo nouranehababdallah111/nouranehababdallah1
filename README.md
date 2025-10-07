@@ -1,5 +1,5 @@
 # 💻 Nouran Ehab Abdallah  
-*Aspiring Data Scientist | Turning raw data into real impact 📊✨*  
+*Data Scientist & ML Engineer *  
 
 📍 Giza, Egypt | ✉️ [Email](mailto:nouranehab58000@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/nouranehababdallah111/) | 🌐 [Portfolio](https://gamma.app/docs/Nouran-Ehab-Abdallah-i5a3oca55debtxk?mode=doc)  
 
@@ -56,8 +56,7 @@ Passionate about transforming raw data into actionable insights and creating int
 
 ---
 
-## 📜 Certifications  
-- **IBM Data Scientist Professional Certificate** (Ongoing) – DEPI / IBM  
+## 📜 Certifications   
 - **Data Analytics & Freelancing Training** – NTI (2025)  
 - **Python for Data Science** – Creativa Innovation Hub (2025)  
 - **InnovEgypt Entrepreneurship Program** – ITIDA & TIEC (2024)  
