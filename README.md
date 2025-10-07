@@ -3,7 +3,7 @@
 
 📍 Giza, Egypt | ✉️ [nouranehab58000@gmail.com](mailto:nouranehab58000@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/nouranehababdallah111/) | 🌐 [Portfolio](https://gamma.app/docs/Nouran-Ehab-Abdallah-i5a3oca55debtxk?mode=doc)  
-📁 [GitHub](https://github.com/nouranehababdallah111) | 📊 [Kaggle](https://www.kaggle.com/nouranehabab)
+📊 [Kaggle](https://www.kaggle.com/nouranehabab)
 
 ---
 
