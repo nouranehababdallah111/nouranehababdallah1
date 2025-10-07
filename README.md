@@ -16,71 +16,67 @@ I enjoy transforming raw data into actionable insights and building intelligent 
 
 ---
 
+## 📜 Certifications  
+
+- **IBM Data Scientist Professional Certificate – DEPI (2025–Present)**  
+- **Data Analytics – NTI (2025)**  
+- **Python for Data Science – Creativa Innovation Hub (2025)**  
+- **InnovEgypt Entrepreneurship Program – ITIDA & TIEC (2024)**
+
+---
+
 ## 💼 Experience & Training  
 
 - **IBM Data Scientist Professional Certificate – DEPI (Jul 2025 – Present)**  
-  - Practical labs and projects in Python, SQL, data analysis, and machine learning.  
-  - Built data pipelines, performed EDA, and developed basic ML models using Jupyter Notebook and Pandas.
+  Practical labs and projects in Python, SQL, data analysis, and ML; built data pipelines, performed EDA, and developed ML models.
 
 - **Data Analytics & Freelancing Training – NTI (Aug–Sep 2025)**  
-  - ETL processes and interactive dashboards using Power BI, Tableau, and Excel.  
-  - Freelancing skills: proposal writing, pricing strategies, and portfolio building.
+  ETL processes, interactive dashboards using Power BI/Tableau/Excel, plus freelancing skills: proposal writing, pricing, portfolio building.
 
 - **Python for Data Science – Creativa Innovation Hub (Mar 2025)**  
-  - Python fundamentals, OOP, data structures, and hands-on mini-projects.
+  Python fundamentals, OOP, data structures, and hands-on mini-projects.
 
 ---
 
 ## 🛠️ Skills & Tools
 
 **Languages & Libraries:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/Seaborn-76b900?style=flat&logoColor=white)  
+Python | SQL | Pandas | NumPy | Matplotlib | Seaborn  
 
 **Data Visualization & BI Tools:**  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
+Power BI | Excel | Tableau  
 
 **Soft Skills:**  
 Problem-Solving | Critical Thinking | Adaptability | Research | Time Management
-
 
 ---
 
 ## 🚀 Projects  
 
-### Interactive Sales Dashboard – NTI  
-**Tools:** Excel (PivotTables, Power Query), Data Modeling  
-- Transformed raw sales data into interactive dashboards to track KPIs such as total sales, top products, and sales by region.
+**[Interactive Sales Dashboard – NTI](#)**  
+Tools: Excel (PivotTables, Power Query), Data Modeling  
+Transformed raw sales data into interactive dashboards to track KPIs such as total sales, top products, and sales by region.
 
-### Fitbit Marketing Dashboard – NTI  
-**Tools:** Power BI, DAX  
-- Visualized campaign performance with metrics like impressions, clicks, conversions, conversion rate, and ROI.
+**[Fitbit Marketing Dashboard – NTI](#)**  
+Tools: Power BI, DAX  
+Visualized campaign performance with metrics like impressions, clicks, conversions, conversion rate, and ROI.
 
-### Global Sales Dashboard – NTI  
-**Tools:** Power BI, DAX  
-- Analyzed global orders and built dashboards to monitor revenue, taxes, freight, and product performance by category.
+**[Global Sales Dashboard – NTI](#)**  
+Tools: Power BI, DAX  
+Analyzed global orders and built dashboards to monitor revenue, taxes, freight, and product performance by category.
 
-### University Dormitory Management System – Beni-Suef University  
-**Tools:** SQL, ERD, C# (Windows Forms)  
-- Designed and implemented a system for managing student housing, library services, and meal plans.
+**[University Dormitory Management System – Beni-Suef University](#)**  
+Tools: SQL, ERD, C# (Windows Forms)  
+Managed student housing, library services, and meal plans.
 
-### Flight Itinerary Planner – Beni-Suef University  
-**Tools:** Python, A* Search Algorithm  
-- Developed an intelligent route planner to find cost- and time-efficient flight paths.
+**[Flight Itinerary Planner – Beni-Suef University](#)**  
+Tools: Python, A* Search Algorithm  
+Developed an intelligent route planner to find cost- and time-efficient flight paths.
 
 ---
 
-## 📜 Certifications  
-
-- **Data Analytics – NTI (2025)**  
-- **Python for Data Science – Creativa Innovation Hub (2025)**  
-- **InnovEgypt Entrepreneurship Program – ITIDA & TIEC (2024)**
+## 📫 Contact Me  
+✉️ [Email](mailto:nouranehab58000@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/nouranehababdallah111/) | 🌐 [Portfolio](https://gamma.app/docs/Nouran-Ehab-Abdallah-i5a3oca55debtxk?mode=doc)
 
 ---
 
