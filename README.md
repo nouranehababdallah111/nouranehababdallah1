@@ -7,12 +7,13 @@
 
 ---
 
-## 👩‍💻 About Me  
-I’m an **aspiring Data Scientist and ML Engineer** with hands-on experience in **data analytics, visualization, and machine learning**.  
-I enjoy transforming raw data into actionable insights and building intelligent solutions that support decision-making.
+## 👩‍💻 About Me
+Data Scientist with hands-on experience in **data analytics and visualization**.  
+Completed the **NTI Data Analytics Summer Training 2025**, working on real-world projects using **Excel, Power BI, Tableau**, and practical tasks in **Python** and **SQL**.  
 
-🎓 B.Sc. in **Computer Science** – Beni-Suef University *(Expected 2027)*  
-📊 Currently pursuing the **IBM Data Scientist Professional Certificate** (Digital Egypt Pioneers Initiative).
+Currently expanding my skills in **Machine Learning** through the **DEPI – Data Science track**, building on a strong foundation in data analytics.  
+
+Passionate about turning complex data into actionable insights and continuously advancing my knowledge in **Data Science, Machine Learning, and MLOps** to create real impact.
 
 ---
 
