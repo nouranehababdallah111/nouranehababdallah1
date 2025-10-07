@@ -8,7 +8,7 @@
 ---
 
 ## 👩‍💻 About Me  
-I’m an **aspiring Data Scientist and AI Engineer** with hands-on experience in **data analytics, visualization, and machine learning**.  
+I’m an **aspiring Data Scientist and ML Engineer** with hands-on experience in **data analytics, visualization, and machine learning**.  
 I enjoy transforming raw data into actionable insights and building intelligent solutions that support decision-making.
 
 🎓 B.Sc. in **Computer Science** – Beni-Suef University *(Expected 2027)*  
