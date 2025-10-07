@@ -1,5 +1,5 @@
 # 💻 Nouran Ehab Abdallah  
-*Data Scientist & ML Engineer *  
+** Data Scientist & ML Engineer **
 
 📍 Giza, Egypt | ✉️ [Email](mailto:nouranehab58000@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/nouranehababdallah111/) | 🌐 [Portfolio](https://gamma.app/docs/Nouran-Ehab-Abdallah-i5a3oca55debtxk?mode=doc)  
 
