@@ -38,16 +38,24 @@ I enjoy transforming raw data into actionable insights and building intelligent 
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠 Skills & Tools
 
 **Languages & Libraries:**  
-Python | SQL | Pandas | NumPy | Matplotlib | Seaborn  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=plotly&logoColor=white) 
+![Seaborn](https://img.shields.io/badge/Seaborn-76b900?style=flat&logoColor=white)  
 
 **Data Visualization & BI Tools:**  
-Power BI | Excel | Tableau  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
 
 **Soft Skills:**  
 Problem-Solving | Critical Thinking | Adaptability | Research | Time Management
+
 
 ---
 
