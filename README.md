@@ -53,17 +53,18 @@ Problem-Solving | Critical Thinking | Adaptability | Research | Time Management
 
 ## 🚀 Projects  
 
+### 📊 Fitbit Marketing Dashboard (Power BI)
+**Tools:** Power BI, DAX  
+Created an end-to-end BI solution for global sales data (2011–2014) with dynamic dashboards.  
+🔗 [Repository Link](https://github.com/nouranehababdallah111/PowerBI-Sales-Analytics)
+
+
+---
+
 ### 🚴‍♂️ Bike Shop Sales Analysis
 **Tools:** Excel (PivotTables, Power Query), Data Modeling  
 Analyzed bike shop sales data and built interactive dashboards to track KPIs such as total sales and top products.  
 🔗 [Repository Link](https://github.com/nouranehababdallah111/Bike-Shop-Sales-Analysis)
-
----
-
-### 📊 Power BI Sales Analytics
-**Tools:** Power BI, DAX  
-Created an end-to-end BI solution for global sales data (2011–2014) with dynamic dashboards.  
-🔗 [Repository Link](https://github.com/nouranehababdallah111/PowerBI-Sales-Analytics)
 
 ---
 
