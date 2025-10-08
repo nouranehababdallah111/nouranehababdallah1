@@ -1,4 +1,4 @@
-# 💻 Nouran Ehab Abdallah  
+#  Nouran Ehab Abdallah  
 **Data Scientist | ML Engineer**
 
 📍 Giza, Egypt | ✉️ [nouranehab58000@gmail.com](mailto:nouranehab58000@gmail.com)  
@@ -7,7 +7,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 Data Scientist with hands-on experience in **data analytics and visualization**.  
 Completed the **NTI Data Analytics Summer Training 2025**, working on real-world projects using **Excel, Power BI, Tableau**, and practical tasks in **Python** and **SQL**.  
 
